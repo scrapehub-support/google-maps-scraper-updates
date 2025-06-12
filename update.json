@@ -1,0 +1,11 @@
+{
+  "version": "1.3.0",
+  "downloadUrl": "https://scrapehub.org/downloads/google-maps-scraper-v1.3.0.zip",
+  "releaseDate": "2024-01-15",
+  "ytvideo": "https://www.youtube.com/watch?v=m25ppbdW5Kc",
+  "releaseNotes": [
+    "Updated repository references",
+    "Improved update mechanism",
+    "Bug fixes and optimizations"
+  ]
+}
